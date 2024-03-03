@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hector Teixeira Carvalho</h1>
 <h3 align="center">I'm Graphic Design & Web Development</h3>
-<img align="center" src="https://media.licdn.com/dms/image/C4E16AQGM6jyl8ccoGw/profile-displaybackgroundimage-shrink_350_1400/0/1668525942167?e=1715212800&v=beta&t=b842JVsyV6O7GHmnDa2nQICFiTxklrgxZxb39EBdTzM" height="250" width="1200" alt="hecteica-background"/>
+<img align="center" src="https://media.licdn.com/dms/image/C4E16AQGM6jyl8ccoGw/profile-displaybackgroundimage-shrink_350_1400/0/1668525942167?e=1715212800&v=beta&t=b842JVsyV6O7GHmnDa2nQICFiTxklrgxZxb39EBdTzM" height="230" width="1200" alt="hecteica-background"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hecteica&label=Profile%20views&color=0e75b6&style=flat" alt="hecteica" /> </p>
 
